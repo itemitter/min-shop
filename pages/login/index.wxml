@@ -1,0 +1,4 @@
+
+<!-- <button type="primary" plain open-type="getUserInfo" bindgetuserinfo="handleGetUserInfo" > 登录 </button> -->
+<!-- <button wx:if="{{canIUseGetUserProfile}}" bindtap="getUserProfile"> 获取头像昵称 </button> -->
+<button type="primary" plain bindtap="handleGetProfile"> 获取头像昵称 </button>
